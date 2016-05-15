@@ -1,0 +1,15 @@
+/src/public/i18n
+/src/public/sprite.svg
+node_modules
+dist
+coverage
+/public
+build
+
+.tmp
+.sass-cache
+.idea
+bower_components
+.DS_Store
+stats.json
+npm-debug.log
